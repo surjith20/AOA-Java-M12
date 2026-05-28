@@ -35,8 +35,8 @@ Your goal is to maximize total profit while completing the maximum number of job
 ## Program:
 ```java
 /*
-Developed by: SHANMUGAKARTHIK G
-Register Number: 212223220105
+Developed by: ILAIYADEEPAN K
+Register Number: 212223230080
 */
 
 import java.util.*;
