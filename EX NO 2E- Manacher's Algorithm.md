@@ -32,9 +32,9 @@ using Manacher's Algorithm
 
 ## Program:
 ```java
-/*
-Developed by: ILAIYADEEPAN K
-Register Number: 212223230080
+/*Program to implement Reverse a String
+Developed by: SURJITH D
+Register Number:  212223043006
 */
 import java.util.Scanner;
 
